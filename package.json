@@ -2,7 +2,7 @@
   "name": "robots",
   "version": "0.1.0",
   "private": true,
-  "homepagee": "https://mohamedsahel.github.io/monsters-rolodex",
+  "homepage": "https://mohamedsahel.github.io/monsters-rolodex",
   "dependencies": {
     "cra-template": "1.0.0",
     "gh-pages": "^2.2.0",
